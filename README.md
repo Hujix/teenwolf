@@ -1,2 +1,4 @@
-# teenwolf
-Teen Wolf Altyapı
+# Teen Wolf Altyapı
+
+
+Yapılan Yanlışlara İnat  :')
